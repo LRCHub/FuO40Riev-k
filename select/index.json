@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "This Is Love",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:34:52.228818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Is Love - 2009 Mix",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/01_This_Is_Love_-_2009_Mix_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/02_This_Is_Love_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If This Is Love",
+      "artist": "Feargal Sharkey",
+      "has_synced": false,
+      "path": "select/03_If_This_Is_Love_Feargal_Sharkey.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "Air Traffic Controller",
+      "has_synced": true,
+      "path": "select/04_This_Is_Love_Air_Traffic_Controller.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If This Is Love",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/05_If_This_Is_Love_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So This Is Love?",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/06_So_This_Is_Love_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So This Is Love?",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/07_So_This_Is_Love_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/08_This_Is_Love_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/09_This_Is_Love_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "The Archies",
+      "has_synced": false,
+      "path": "select/10_This_Is_Love_The_Archies.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If This Is Love",
+      "artist": "Take That",
+      "has_synced": false,
+      "path": "select/11_If_This_Is_Love_Take_That.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "Dido",
+      "has_synced": true,
+      "path": "select/12_This_Is_Love_Dido.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "So This Is Love (Cinderella)",
+      "artist": "Mike Douglas",
+      "has_synced": false,
+      "path": "select/13_So_This_Is_Love_(Cinderella)_Mike_Douglas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If This is Love",
+      "artist": "Ruth B.",
+      "has_synced": true,
+      "path": "select/14_If_This_is_Love_Ruth_B..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "will.i.am, Eva Simons",
+      "has_synced": true,
+      "path": "select/15_This_Is_Love_will.i.am,_Eva_Simons.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This Is Love",
+      "artist": "Wwill.i.am (ft. Eva Simons)",
+      "has_synced": true,
+      "path": "select/16_This_Is_Love_Wwill.i.am_(ft._Eva_Simons).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "If This Is Love (I'd Rather Be Lonely)",
+      "artist": "The Precisions",
+      "has_synced": true,
+      "path": "select/17_If_This_Is_Love_(I'd_Rather_Be_Lonely)_The_Precisions.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Is Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_This_Is_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "This Is Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_This_Is_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "This Is Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_This_Is_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "This Is Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_This_Is_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "This Is Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_This_Is_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "This is Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_This_is_Love_宇多田_ヒカル.txt"
+    }
+  ]
+}
